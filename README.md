@@ -1,7 +1,7 @@
 # Car Sales Analysis Dashboard
 ## Overview
 The Car Sales Analysis Dashboard is designed to help users quickly understand and analyze car sales trends and distributions using various chart types. By consolidating multiple visualizations into a single dashboard, users can gain insights into the data more effectively.
-## Feature
+## Features
 The dashboard includes the following key features:
 + Manufacturer Slicer: Allows users to filter the data by car manufacturer, enabling a focused analysis of specific brands.
 + HP Level Slicer: Enables filtering based on horsepower levels, helping users examine car performance and sales trends within different power categories.
