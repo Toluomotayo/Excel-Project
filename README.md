@@ -1,7 +1,7 @@
 # 🚗 Car Sales Analysis Dashboard  
 This project is an Excel-based dashboard that explores car sales, resale value, performance, and retention metrics. The dataset was sourced from the IBM Data Analyst Professional Certificate course, and the analysis was performed using pivot tables, slicers, and pivot charts only—no Power BI or Power Query involved.
 ---
-## 📊 Project Overview  
+## 📊 Project Overview 
 The goal was to gain actionable insights into car model performance across manufacturers, especially focusing on Toyota models. The dashboard supports both business and technical decision-making around pricing, sales performance, and resale strategy.
 ---
 ## 🛠 Tools & Technologies Used  
